@@ -1,5 +1,6 @@
 # BattleStats
-<p>
+<p>https://github.com/bvsswave/battlestats<p>
+  
   This application collects gamer's tags and displays their stats all in one place. Currently the Steam page is live and uses the user's Steam ID to display their gamer info. We are planning on developing Xbox and Playstation's functionality in the future. The Application also displays (TOTALLY APPROPRIATE) jokes on the main page.
 </p>
 
